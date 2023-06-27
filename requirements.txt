@@ -1,0 +1,7 @@
+jax[cuda11_pip]
+einops
+mediapy
+tensorflow-gan
+scenic @ git+https://github.com/google-research/scenic.git
+dmvr @ git+https://github.com/deepmind/dmvr.git
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
