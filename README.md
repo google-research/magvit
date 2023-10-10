@@ -1,8 +1,8 @@
 # MAGVIT: Masked Generative Video Transformer
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magvit-masked-generative-video-transformer/video-generation-on-ucf-101)](https://paperswithcode.com/sota/video-generation-on-ucf-101?p=magvit-masked-generative-video-transformer)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-model-beats-diffusion-tokenizer-is/video-generation-on-ucf-101)](https://paperswithcode.com/sota/video-generation-on-ucf-101?p=language-model-beats-diffusion-tokenizer-is)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magvit-masked-generative-video-transformer/video-prediction-on-kinetics-600-12-frames)](https://paperswithcode.com/sota/video-prediction-on-kinetics-600-12-frames?p=magvit-masked-generative-video-transformer)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-model-beats-diffusion-tokenizer-is/video-prediction-on-kinetics-600-12-frames)](https://paperswithcode.com/sota/video-prediction-on-kinetics-600-12-frames?p=language-model-beats-diffusion-tokenizer-is)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magvit-masked-generative-video-transformer/video-prediction-on-bair-robot-pushing-1)](https://paperswithcode.com/sota/video-prediction-on-bair-robot-pushing-1?p=magvit-masked-generative-video-transformer)
 
@@ -11,6 +11,10 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magvit-masked-generative-video-transformer/video-prediction-on-something-something-v2)](https://paperswithcode.com/sota/video-prediction-on-something-something-v2?p=magvit-masked-generative-video-transformer)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/magvit-masked-generative-video-transformer/text-to-video-generation-on-something)](https://paperswithcode.com/sota/text-to-video-generation-on-something?p=magvit-masked-generative-video-transformer)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-model-beats-diffusion-tokenizer-is/image-generation-on-imagenet-512x512)](https://paperswithcode.com/sota/image-generation-on-imagenet-512x512?p=language-model-beats-diffusion-tokenizer-is)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/language-model-beats-diffusion-tokenizer-is/image-generation-on-imagenet-256x256)](https://paperswithcode.com/sota/image-generation-on-imagenet-256x256?p=language-model-beats-diffusion-tokenizer-is)
 
 
 [[Paper](https://arxiv.org/abs/2212.05199)] | [[Project Page](https://magvit.cs.cmu.edu)] | [[Colab]()]
