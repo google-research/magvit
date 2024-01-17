@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ## Pretrained models
 
-Model weights and loading instructions are coming soon.
+As for the model pretrained weight release, please see this [note](https://github.com/google-research/magvit/issues/16).
 
 ### MAGVIT 3D-VQ models
 
